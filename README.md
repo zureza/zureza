@@ -2,9 +2,9 @@
 
 # Hi, I'm Rajiv Kapur 👋
 
-### Full-Stack Developer | Building Modern SaaS Products
+### Full-Stack & .NET Developer | Azure | Building Modern SaaS Products
 
-I build web applications, backend APIs, and cloud-based software with a focus on secure architecture and practical user experiences.
+I build web applications, backend APIs, and cloud-based software with a focus on secure architecture and practical user experiences. My development stack includes **C# / .NET and Microsoft Azure** alongside JavaScript and TypeScript technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-zureza-181717?style=for-the-badge&logo=github)](https://github.com/zureza)
 [![Website](https://img.shields.io/badge/Website-zureza.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zureza.com)
@@ -14,7 +14,7 @@ I build web applications, backend APIs, and cloud-based software with a focus on
 ## 🚀 About Me
 
 - 💻 Building **ZUREZA**, a customer engagement SaaS project for CRM, support, marketing, and developer APIs.
-- 🛠️ Working with **Next.js, React, TypeScript, Node.js, NestJS, and PostgreSQL**.
+- 🛠️ Working with **C#, .NET, ASP.NET Core, Microsoft Azure, Next.js, React, TypeScript, NestJS, and PostgreSQL**.
 - ☁️ Exploring **Firebase, Google Cloud, Cloud Run, and infrastructure as code**.
 - 🔐 Interested in secure multi-tenant applications, developer tooling, and API design.
 - 📚 Continuously learning, building, and improving software.
@@ -24,6 +24,10 @@ I build web applications, backend APIs, and cloud-based software with a focus on
 **Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**.NET & Microsoft Azure**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Backend & Database**
 
